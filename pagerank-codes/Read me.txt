@@ -1,0 +1,4 @@
+1)Execute Results\Part1.bat to obtain results for PageRank
+2)Execute Results\Part2.bat to obtain results for Topice Sensitive PageRank
+ 
+You may need to change JAVA_HOME address in .bat files.
